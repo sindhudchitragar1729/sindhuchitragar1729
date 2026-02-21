@@ -4,10 +4,15 @@
 ---
 
 ## 🚀 About Me
-🎓 Pursuing Electronics and Communication Engineering at GM Institute of Technology, Davangere  
+
+🎓 Pursuing Electronics and Communication Engineering at GM Institute of Technology, Davangere, Karnataka  
+
 💡 Passionate about Software Development and AI/ML  
+
 🧠 Actively practicing Data Structures and Problem Solving  
+
 🌱 Currently working on Web Development and improving Backend skills  
+
 🎯 Aspiring to become a skilled Software Engineer  
 
 ---
@@ -33,19 +38,23 @@
 </p>
 
 ### 📚 Concepts
-- Data Structures & Algorithms  
-- Java Collection Framework  
+
+- Data Structures & Algorithms
+  
+- Java Collection Framework
+  
 - Problem Solving  
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=sindhuchitragar1729&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sindhuchitragar1729&theme=tokyonight" />
 </p>
 
 ---
