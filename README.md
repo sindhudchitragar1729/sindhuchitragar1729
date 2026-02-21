@@ -50,11 +50,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sindhuchitragar1729&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=sindhudchitragar1729&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sindhuchitragar1729&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sindhudchitragar1729&theme=tokyonight" />
 </p>
 
 ---
