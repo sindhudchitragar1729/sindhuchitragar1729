@@ -1,126 +1,186 @@
-<h1 align="center">
-  <span style="color:#00ADB5;">Hi 👋, I'm</span> 
-  <span style="color:#FFD369;">Sindhu D Chitragar</span>
-</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=🚀+Passionate+Software+Developer;🤖+AI%2FML+Enthusiast;🧩+Problem+Solver;🔥+DSA+Learner+%7C+Future+Software+Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:7f0000,100:e53935&height=140&section=header&text=Sindhu%20D%20Chitragar&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20DSA%20Learner&descAlignY=60&descSize=16&descColor=FFD369"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=🚀+Passionate+Software+Developer;🤖+AI%2FML+Enthusiast;🧩+Problem+Solver;🔥+DSA+Learner+%7C+Future+Software+Engineer;💡+Building+with+Consistency+%26+Growth" />
 </p>
 
----
-
-## <span style="color:#00ADB5;">🚀 About Me</span>
-
-- 🎓 Pursuing **<span style="color:#FFD369;">Electronics and Communication Engineering</span>** at GM Institute of Technology, Davangere  
-- 💡 Passionate about <span style="color:#00ADB5;">Software Development & AI/ML</span>  
-- 🧠 Actively practicing <span style="color:#FFD369;">Data Structures & Problem Solving</span>  
-- 🌱 Currently building skills in <span style="color:#00ADB5;">Full Stack Development</span>  
-- 🎯 Goal: Become a <span style="color:#FFD369;">Top Software Engineer</span>  
-- ⚡ Strong believer in <span style="color:#00ADB5;">Consistency & Growth</span>  
-
----
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212259389-4c682c3f-65b5-4f7b-9c92-9c38b4c77d1f.gif" width="100%" />
+  <img src="https://img.shields.io/badge/-Java-e53935?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-FFD369?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-C++-e53935?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-00ADB5?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-e53935?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
 ---
 
-## <span style="color:#FFD369;">🧠 DSA Journey</span>
+## 🚀 About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
+
+```python
+class SindhuDChitragar:
+    def __init__(self):
+        self.name       = "Sindhu D Chitragar"
+        self.degree     = "Electronics & Communication Engineering"
+        self.college    = "GM Institute of Technology, Davangere"
+        self.passion    = ["Software Dev", "AI/ML", "DSA"]
+        self.goal       = "Top Software Engineer"
+        self.belief     = "Consistency & Growth 🔥"
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something great!")
+
+me = SindhuDChitragar()
+me.say_hi()
+```
+
+<br clear="right"/>
+
+- 🎓 Pursuing **Electronics and Communication Engineering** at GM Institute of Technology, Davangere
+- 💡 Passionate about **Software Development & AI/ML**
+- 🧠 Actively practicing **Data Structures & Problem Solving** (Striver Sheet)
+- 🌱 Currently building skills in **Full Stack Development**
+- 🎯 Goal: Become a **Top Software Engineer**
+- ⚡ Strong believer in **Consistency & Growth**
+
+---
+
+## 🧠 DSA Journey
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DSA%20Practice-Active-black?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Learning%20Path-Striver%20Sheet-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Goal-Top%20Product%20Companies-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA%20Practice-Active-e53935?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Learning%20Path-Striver%20Sheet-FFD369?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Goal-Top%20Product%20Companies-00ADB5?style=for-the-badge&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-9da9-5009f9d0e755.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
 </p>
 
 ---
 
-## <span style="color:#00ADB5;">🛠️ Languages & Technologies</span>
+## 🛠️ Languages & Technologies
 
-### 💻 Programming
+### 💻 Programming Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark" />
 </p>
 
-### 🌐 Frontend
+### 🌐 Frontend Development
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend Development
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 </p>
 
----
-
-## <span style="color:#FFD369;">🔥 Featured Projects</span>
+### 🔧 Tools & Platforms
 
 <p align="center">
-🚧 <i>Projects coming soon... Stay tuned!</i>
-</p>
-
----
-
-## <span style="color:#00ADB5;">📊 GitHub Stats</span>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sindhudchitragar1729&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFD369&icon_color=00ADB5&text_color=FFFFFF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sindhudchitragar1729&theme=black-ice&hide_border=true&background=000000&stroke=FFD369&ring=00ADB5&fire=FFD369&currStreakLabel=FFFFFF" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 </p>
 
 ---
 
-## <span style="color:#FFD369;">📈 Contribution Graph</span>
+## 🔥 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sindhudchitragar1729&bg_color=000000&color=FFD369&line=00ADB5&point=FFFFFF&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=2000&pause=500&color=e53935&center=true&vCenter=true&width=600&lines=🚧+Exciting+projects+coming+soon...;⚡+Stay+tuned+for+updates!;🔨+Currently+building+awesome+things..." />
+</p>
+
+> 💡 *Projects are in progress — watch this space!*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sindhudchitragar1729&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e53935&icon_color=FFD369&text_color=FFFFFF&ring_color=e53935" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sindhudchitragar1729&theme=dark&hide_border=true&background=0d0d0d&stroke=e53935&ring=e53935&fire=FFD369&currStreakLabel=FFD369&sideLabels=FFFFFF&dates=888888" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindhudchitragar1729&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e53935&text_color=FFFFFF" width="40%"/>
 </p>
 
 ---
 
-## <span style="color:#00ADB5;">🐍 Contribution Snake</span>
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sindhudchitragar1729/sindhuchitragar1729/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sindhudchitragar1729&bg_color=0d0d0d&color=e53935&line=FFD369&point=FFFFFF&hide_border=true&area=true&area_color=e5393533" />
 </p>
 
 ---
 
-## <span style="color:#FFD369;">🌱 Currently Learning</span>
+## 🐍 Contribution Snake
 
-- 🔥 Advanced Data Structures & Algorithms  
-- 🌐 Full Stack Development  
-- 🤖 AI/ML Concepts  
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sindhudchitragar1729/sindhuchitragar1729/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sindhudchitragar1729/sindhuchitragar1729/output/github-contribution-grid-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/sindhudchitragar1729/sindhuchitragar1729/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</p>
 
 ---
 
-## <span style="color:#00ADB5;">📫 Connect With Me</span>
+## 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Advanced%20DSA-In%20Progress-e53935?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Dev-In%20Progress-FFD369?style=for-the-badge&logo=nodedotjs&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AI%2FML%20Concepts-Exploring-00ADB5?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+</p>
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-e53935?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/sindhudchitragar1729">
+    <img src="https://img.shields.io/badge/GitHub-Follow-FFD369?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-00ADB5?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## <span style="color:#FFD369;">💡 Quote</span>
+## 💡 Quote
 
 <p align="center">
-  <i style="color:#00ADB5;">⭐ "Consistency and Continuous Learning are the keys to success."</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Consistency%20and%20Continuous%20Learning%20are%20the%20keys%20to%20success.&author=Sindhu%20D%20Chitragar&bg_color=0d0d0d&border_color=e53935&title_color=FFD369&icon=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sindhudchitragar1729&label=Profile%20views&color=FFD369&style=flat" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e53935,50:7f0000,100:000000&height=100&section=footer&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sindhudchitragar1729&label=Profile+Views&color=e53935&style=for-the-badge" />
 </p>
